@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Visualizador de Proposta de Rede",
+  "description": "Uma aplicação web para visualizar e entender uma proposta detalhada de implantação de rede de computadores, incluindo topologia, equipamentos, e esquema de endereçamento IP.",
+  "requestFramePermissions": []
+}
